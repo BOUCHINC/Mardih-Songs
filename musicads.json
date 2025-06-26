@@ -18,9 +18,9 @@
       
       "OpenAdNetwork"      : "admob",
       
-      "AdInterval"         : 1,
+      "AdInterval"         : 5,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -127,12 +127,6 @@
       "packageName": "com.naser.razazi.bouchinc",
       "icon": "https://play-lh.googleusercontent.com/yEo8hOSttlMpen12trSxjfxD9evidBJfHNBbiV2N6BMwDkKmM39GVvrDqD2BGQ_IjOU=w240-h480-rw",
       "download": "+550K"
-    },
-    {
-      "name": "MARDIH SONG",
-      "packageName": "com.mardih.songs.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/Xlv1FaDeM0yewX5UOxjsJNPe4LfWdmC-MXJY00TP0FJw8sb1cOuv_1GC0HZsgLYMLA=w240-h480-rw",
-      "download": "+680K"
     },
     {
       "name": "GHAZAAL ENAYAT",
